@@ -1,0 +1,436 @@
+[
+    {
+        "name": "COTTON T SHIRT",
+        "hsnCode": "61091000",
+        "keywords": [
+            "tshirt",
+            "cotton t shirt",
+            "t-shirt"
+        ]
+    },
+    {
+        "name": "COTTON LOWER",
+        "hsnCode": "62046290",
+        "keywords": [
+            "cotton lower",
+            "cotton pants",
+            "cotton trousers"
+        ]
+    },
+    {
+        "name": "STEEL UTENSILS",
+        "hsnCode": "73239990",
+        "keywords": [
+            "steel utensil",
+            "steel utensils",
+            "steel kitchenware"
+        ]
+    },
+    {
+        "name": "PLASTIC UTENSILS",
+        "hsnCode": "39249090",
+        "keywords": [
+            "plastic utensil",
+            "plastic utensils",
+            "plastic kitchenware"
+        ]
+    },
+    {
+        "name": "COTTON BABY DRESS",
+        "hsnCode": "61112000",
+        "keywords": [
+            "cotton baby dress",
+            "baby cotton dress"
+        ]
+    },
+    {
+        "name": "COTTON BEDSHEET",
+        "hsnCode": "63023100",
+        "keywords": [
+            "cotton bedsheet",
+            "bedsheet"
+        ]
+    },
+    {
+        "name": "COTTON CLOTH",
+        "hsnCode": "61142000",
+        "keywords": [
+            "fabric",
+            "cotton cloth",
+            "cloth material"
+        ]
+    },
+    {
+        "name": "COTTON CURTAIN",
+        "hsnCode": "63039100",
+        "keywords": [
+            "cotton curtain",
+            "curtain"
+        ]
+    },
+    {
+        "name": "COTTON DUPATTA",
+        "hsnCode": "62171090",
+        "keywords": [
+            "dupatta",
+            "cotton dupatta"
+        ]
+    },
+    {
+        "name": "COTTON HANKY",
+        "hsnCode": "62132000",
+        "keywords": [
+            "hanky",
+            "handkerchief",
+            "cotton hanky"
+        ]
+    },
+    {
+        "name": "COTTON KURTA PAJAMA",
+        "hsnCode": "62031910",
+        "keywords": [
+            "kurta pajama",
+            "cotton kurta pajama"
+        ]
+    },
+    {
+        "name": "COTTON LADIES SUIT",
+        "hsnCode": "62041290",
+        "keywords": [
+            "ladies suit",
+            "cotton suit"
+        ]
+    },
+    {
+        "name": "COTTON NIGHT DRESS",
+        "hsnCode": "62082190",
+        "keywords": [
+            "night dress",
+            "cotton night dress"
+        ]
+    },
+    {
+        "name": "COTTON PANT",
+        "hsnCode": "62034290",
+        "keywords": [
+            "cotton pant",
+            "cotton pants"
+        ]
+    },
+    {
+        "name": "COTTON PILLOW COVER",
+        "hsnCode": "63049231",
+        "keywords": [
+            "pillow cover",
+            "cotton pillow cover"
+        ]
+    },
+    {
+        "name": "COTTON SHIRT",
+        "hsnCode": "62052090",
+        "keywords": [
+            "cotton shirt",
+            "shirt"
+        ]
+    },
+    {
+        "name": "COTTON SHORTS",
+        "hsnCode": "62046290",
+        "keywords": [
+            "shorts",
+            "cotton shorts"
+        ]
+    },
+    {
+        "name": "COTTON THREAD",
+        "hsnCode": "52041190",
+        "keywords": [
+            "thread",
+            "cotton thread",
+            "sewing thread"
+        ]
+    },
+    {
+        "name": "COTTON TIE",
+        "hsnCode": "62159010",
+        "keywords": [
+            "tie",
+            "cotton tie",
+            "neck tie"
+        ]
+    },
+    {
+        "name": "COTTON TOP",
+        "hsnCode": "62063090",
+        "keywords": [
+            "top",
+            "cotton top",
+            "blouse"
+        ]
+    },
+    {
+        "name": "COTTON TOWEL",
+        "hsnCode": "63049260",
+        "keywords": [
+            "towel",
+            "cotton towel"
+        ]
+    },
+    {
+        "name": "COTTON UNDERGARMENTS",
+        "hsnCode": "61071100",
+        "keywords": [
+            "undergarments",
+            "innerwear",
+            "cotton undergarments"
+        ]
+    },
+    {
+        "name": "DENIM JEANS",
+        "hsnCode": "62034290",
+        "keywords": [
+            "jeans",
+            "denim jeans"
+        ]
+    },
+    {
+        "name": "BAG",
+        "hsnCode": "63053300",
+        "keywords": [
+            "bag",
+            "poly bags"
+        ]
+    },
+    {
+        "name": "BELT",
+        "hsnCode": "42033000",
+        "keywords": [
+            "belt",
+            "leather belt"
+        ]
+    },
+    {
+        "name": "BLANKET",
+        "hsnCode": "63014000",
+        "keywords": [
+            "blanket",
+            "cotton blanket"
+        ]
+    },
+    {
+        "name": "BOOKS",
+        "hsnCode": "49011010",
+        "keywords": [
+            "books",
+            "book"
+        ]
+    },
+    {
+        "name": "CAP",
+        "hsnCode": "65050090",
+        "keywords": [
+            "cap",
+            "hat"
+        ]
+    },
+    {
+        "name": "COSMETIC",
+        "hsnCode": "33030000",
+        "keywords": [
+            "cosmetic",
+            "makeup"
+        ]
+    },
+    {
+        "name": "GLOVES",
+        "hsnCode": "61169990",
+        "keywords": [
+            "gloves",
+            "hand gloves"
+        ]
+    },
+    {
+        "name": "GOGGLES",
+        "hsnCode": "90041000",
+        "keywords": [
+            "goggles",
+            "sun glass"
+        ]
+    },
+    {
+        "name": "HOME DECORATIVE",
+        "hsnCode": "68159990",
+        "keywords": [
+            "home decorative",
+            "decorative items"
+        ]
+    },
+    {
+        "name": "LADIES PURSE",
+        "hsnCode": "42022110",
+        "keywords": [
+            "purse",
+            "ladies purse"
+        ]
+    },
+    {
+        "name": "LEHENGA",
+        "hsnCode": "62041390",
+        "keywords": [
+            "lehenga"
+        ]
+    },
+    {
+        "name": "MOBILE ACCESSORIES",
+        "hsnCode": "85170000",
+        "keywords": [
+            "mobile accessories",
+            "phone accessories"
+        ]
+    },
+    {
+        "name": "PAPER",
+        "hsnCode": "48020000",
+        "keywords": [
+            "paper",
+            "roll paper"
+        ]
+    },
+    {
+        "name": "PEN DRIVE",
+        "hsnCode": "85230000",
+        "keywords": [
+            "pen drive",
+            "usb drive"
+        ]
+    },
+    {
+        "name": "POLYESTER COAT",
+        "hsnCode": "62014090",
+        "keywords": [
+            "polyester coat",
+            "coat"
+        ]
+    },
+    {
+        "name": "SANITARY PAD",
+        "hsnCode": "96190010",
+        "keywords": [
+            "sanitary pad"
+        ]
+    },
+    {
+        "name": "SHOES",
+        "hsnCode": "64035119",
+        "keywords": [
+            "shoes"
+        ]
+    },
+    {
+        "name": "SILK SAREE",
+        "hsnCode": "50072010",
+        "keywords": [
+            "silk saree",
+            "saree"
+        ]
+    },
+    {
+        "name": "SLIPPER",
+        "hsnCode": "64052000",
+        "keywords": [
+            "slipper",
+            "slippers"
+        ]
+    },
+    {
+        "name": "SOCKS",
+        "hsnCode": "61159500",
+        "keywords": [
+            "socks",
+            "cotton socks"
+        ]
+    },
+    {
+        "name": "SPICES",
+        "hsnCode": "13019044",
+        "keywords": [
+            "spices"
+        ]
+    },
+    {
+        "name": "STICKERS",
+        "hsnCode": "48210000",
+        "keywords": [
+            "stickers",
+            "sticker"
+        ]
+    },
+    {
+        "name": "SYNTHETIC COAT",
+        "hsnCode": "62031200",
+        "keywords": [
+            "synthetic coat"
+        ]
+    },
+    {
+        "name": "TABLE COVER",
+        "hsnCode": "63071090",
+        "keywords": [
+            "table cover",
+            "cotton table cover"
+        ]
+    },
+    {
+        "name": "TOY",
+        "hsnCode": "95030099",
+        "keywords": [
+            "toy"
+        ]
+    },
+    {
+        "name": "UMBRELLA",
+        "hsnCode": "66010000",
+        "keywords": [
+            "umbrella"
+        ]
+    },
+    {
+        "name": "UTENSILS",
+        "hsnCode": "73239990",
+        "keywords": [
+            "utensils",
+            "kitchenware"
+        ]
+    },
+    {
+        "name": "WOOLEN BLANKET",
+        "hsnCode": "63012000",
+        "keywords": [
+            "woolen blanket"
+        ]
+    },
+    {
+        "name": "WOOLEN HOODIE",
+        "hsnCode": "61101120",
+        "keywords": [
+            "woolen hoodie",
+            "hoodie"
+        ]
+    },
+    {
+        "name": "WOOLEN SWEATER",
+        "hsnCode": "61101120",
+        "keywords": [
+            "woolen sweater",
+            "sweater"
+        ]
+    },
+    {
+        "name": "WOOLEN TRACK SUIT",
+        "hsnCode": "61121920",
+        "keywords": [
+            "woolen track suit",
+            "track suit"
+        ]
+    }
+]
